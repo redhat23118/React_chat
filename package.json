@@ -1,0 +1,18 @@
+{
+  "name": "chevron-invoice-analysis-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for analyzing Chevron invoices",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "lucide-react": "^0.22.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
